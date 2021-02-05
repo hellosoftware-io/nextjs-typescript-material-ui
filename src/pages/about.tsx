@@ -9,7 +9,7 @@ export default function AboutPage(): JSX.Element {
       <Box sx={{ my: 4 }}>
         <Typography variant="h1">About Page</Typography>
         <Typography variant="body1" sx={{ py: 4 }}>
-          You can delete this file if you'd like
+          You can delete this file if you&apos;d like
         </Typography>
         <Link href="/" color="secondary">
           Go back home
