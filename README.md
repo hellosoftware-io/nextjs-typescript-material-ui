@@ -9,7 +9,7 @@ This template offers a lightweight starting point to develop an app with Next.js
 Download or clone the repo:
 
 ```sh
-git clone https://github.com/libgit2/libgit2 myapp
+git clone https://github.com/hellosoftware-io/nextjs-typescript-material-ui myapp
 cd myapp
 ```
 
