@@ -9,7 +9,7 @@ import theme from "theme";
 
 export const cache = createCache({ key: "css", prepend: true });
 
-export default function MyApp(props: AppProps) {
+export default function MyApp(props: AppProps): JSX.Element {
   const { Component, pageProps } = props;
 
   React.useEffect(() => {

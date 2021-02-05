@@ -8,7 +8,7 @@ import { cache } from "pages/_app";
 const { extractCritical } = createEmotionServer(cache);
 
 export default class MyDocument extends Document {
-  render() {
+  render(): JSX.Element {
     return (
       <Html lang="en">
         <Head>

@@ -3,7 +3,7 @@ import { Container, Typography, Box } from "@material-ui/core";
 import Link from "components/Link";
 import Footer from "components/Footer";
 
-export default function HomePage() {
+export default function HomePage(): JSX.Element {
   return (
     <Container maxWidth="md">
       <Box sx={{ my: 4 }}>
